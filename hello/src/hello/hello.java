@@ -12,6 +12,7 @@ public class hello {
 		System.out.println("Hello his world");
 		System.out.println("good bye");
 		System.out.println("Thank you");
+		System.out.println("a");
 	}
 
 }
