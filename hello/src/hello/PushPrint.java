@@ -7,6 +7,7 @@ public class PushPrint {
 		System.out.println("Add Java file");
 		System.out.println("Hi");
 		System.out.println("HAHAHAHAHAHAH");
+		System.out.println("start");
 	}
 
 }
