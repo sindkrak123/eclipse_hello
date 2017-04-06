@@ -8,6 +8,9 @@ public class PushPrint {
 		System.out.println("Hi");
 		System.out.println("Hello in Local");
 		System.out.println("test ok");
+		System.out.println("HAHAHAHAHAHAH");
+		System.out.println("start");
+		System.out.println("OK!!");
 	}
 
 }
